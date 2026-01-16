@@ -1,25 +1,59 @@
 This repository contains my Core Java practice work done as part of BridgeLabz training. It includes Java fundamentals, problem-solving practice, and scenario-based implementations.
 
-🌿 Branch Structure main  
+🌿 Branch Structure  
+🔶 main  
 
 Default branch (kept empty)  
-core-java-practice  
+🔶 core-java-practice  
+
+Contains all Core Java practice code and problem implementations  
+🔶 oops-practice  
+
+Contains all object oriented related problems code and problem implementations  
+🔶 dsa-practice  
+
 
 Contains all Core Java practice code and problem implementations  
 📂 Project Structure  
-core-java-practice/  
+
+
+BridgeLabz-Training  
+
+├── core-java-practice/  
+│   └── core-java-programs/  
+│       ├── gcr-codebase/  
+│       │   ├── arrays/  
+│       │   ├── control-flow/  
+│       │   ├── methods/  
+│       │   ├── programming-elements/  
+│       │   ├── string/  
+│       │   └── string-extras/  
+│       │  
+│       ├── leet-code-codebase/  
+│       └── scenario-based/  
 │  
-├── gcr-codebase/  
-│   ├── arrays/  
-│   ├── control-flow/  
-│   ├── string-extras/  
-│   ├── methods/  
-│   ├── programming-elements/  
-│   └── strings/  
+├── oops-practice/  
+│   ├── gcr-codebase/  
+│   │   ├── class-and-object/  
+│   │   ├── constructor/  
+│   │   ├── inheritance/  
+│   │   ├── object-oriented-design-principles/  
+│   │   ├── oops-pillars/  
+│   │   └── static-final-keyword/  
+│   │  
+│   ├── leet-code-codebase/  
+│   └── scenario-based/  
 │  
-├── leet-code-codebase/  
-│  
-└── scenario-based/  
+├── dsa-practice/  
+│   └── dsa-practice/  
+│       ├── gcr-codebase/  
+│       │   ├── stack-queue-hashmap/  
+│       │   └── linked-list/  
+│       │  
+│       ├── leet-code-codebase/  
+│       └── scenario-based/  
+
+
 📅 Week 1: Core Java Foundations  
 🔹 16-Dec-2025 (Tuesday)  
 Installed and configured JDK, JVM, and JRE  
@@ -138,16 +172,56 @@ Completed and submitted scenario-based assignment
 [Encapsulation, Polymorphism, Interface and Abstract Class](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/gcr-codebase/oops-pillars)  
 
 
-
 📅 6-Jan-2026 (Tuesday)
 Studied Study The Scenario Based Problems
 Solved scenario-based practice problems
 solved leetcode-based practice problems
 Completed and submitted scenario-based and leetcode problems
-[Scenario-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/scenario-based)  
+[Scenario-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/scenario-based)   
 [Leetcode-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/leet-code-codebase)  
 
 
+7-Jan-2026 (Wednesday)  
+Studied Study The Data Structure Introduction and LinkedList  
+Solved linkedlist leetcode practice problems  
+Completed and submitted leetcode practice problem  
+[LinkedList](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)  
+
+
+📅 8-Jan-2026 (Thursday)  
+Studied Study The Data Structure - LinkedList  
+Solved LinkedList scenario-based practice problems  
+Completed and submitted scenario-based assignment  
+[LinkedList-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)  
+
+
+📅 9-Jan-2026 (Friday)  
+Studied Study The OOPS Concept and Scenario-based Problems  
+Solved scenario-based practice problems   
+Completed and submitted scenario-based assignment  
+[OOPS Scenario-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/scenario-based)  
+
+
+🔷 Week 4: Scenario-based Problems, OOPS and DSA   
+📅 12-Jan-2026 (Monday)  
+Studied Study The Scenario Based OOPs Problems  
+Solved oops scenario-based practice problems  
+Completed oops scenario-based assignment  
+[OOPS scenario-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/scenario-based)  
+
+
+📅 13-Jan-2026 (Tuesday)  
+Studied Study The Stack , Queue, HashMap and Hashing Function  
+Solved oops scenario-based practice problems  
+Completed and submitted oops scenario-based assignment  
+[OOPS Scenario-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/scenario-based)  
+
+
+📅 14-Jan-2026 (Wednesday)  
+Studied Study The Stack , Queue, HashMap and Hashing Function  
+Completed and submitted Stacks-Queues/HashMap-HashingFunction assignment  
+[Stacks-Queues](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack-queue-hashMap)  
+[HashMap-HashingFunction](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack-queue-hashMap)
 
 
 🛠️ Technologies Used  
