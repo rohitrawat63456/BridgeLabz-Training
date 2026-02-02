@@ -15,7 +15,16 @@ Contains all object oriented related problems code and problem implementations
 
 
 🔶 dsa-practice  
-Contains all Core Java practice code and problem implementations  
+Contains all Core Java practice code and problem implementations   
+
+
+🔶 collections-practice  
+Contains problems related to the Java Collections Framework  
+
+
+🔶 review  
+Contains problems that were asked in the review
+
 
 ---
 
@@ -55,9 +64,25 @@ BridgeLabz-Training
 │       ├── gcr-codebase/  
 │       │   ├── stack-queue-hashmap/  
 │       │   └── linked-list/  
+|       |   └── Binary-linear-search/  
+|       |   └── sorting-algorithms/  
+|       |   └── Time complexity Analysis/  
 │       │  
 │       ├── leet-code-codebase/  
-│       └── scenario-based/  
+│       └── scenario-based/
+|
+├── collections-practice/  
+│   └── collections-practice/  
+│       ├── gcr-codebase/  
+│       │   ├── exceptional-handling/  
+│       │   └── generics/  
+|       |   └── java-streams/  
+|       |   └── junit/  
+|       |   └── list-map-queue-set/
+|       |   └── reqex-junit/  
+│       │  
+│       ├── leet-code-codebase/  
+│       └── scenario-based/
 
 ```
 
@@ -209,7 +234,7 @@ Completed and submitted scenario-based assignment
 Studied Study The Scenario Based Problems
 Solved scenario-based practice problems
 solved leetcode-based practice problems
-Completed and submitted scenario-based and leetcode problems
+Completed and submitted scenario-based and leetcode problems  
 [Scenario-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/scenario-based)   
 [Leetcode-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/oops-practice/leet-code-codebase)  
 
@@ -239,7 +264,7 @@ Completed and submitted scenario-based assignment
 
 ---
 
-## Week 4: Scenario-based Problems, OOPS and DSA   
+## Week 5: Scenario-based Problems, OOPS and DSA   
 
 
 📅 12-Jan-2026 (Monday)  
@@ -263,6 +288,59 @@ Studied Study The Stack , Queue, HashMap and Hashing Function
 Completed and submitted Stacks-Queues/HashMap-HashingFunction assignment  
 [Stacks-Queues](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack-queue-hashMap)  
 [HashMap-HashingFunction](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack-queue-hashMap)
+
+---
+
+📅 15-Jan-2026 (Thursday)  
+Studied Study The Address Book Problem and Searching Algorithms  
+Solved oops sorting-based practice problems  
+Completed and submitted sorting-based assignment  
+[Sorting Algorithms](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)  
+
+---
+
+📅 16-Jan-2026 (Friday)  
+Studied Study The Runtime analysis and Git commands  
+Solved oops searching based practice problems  
+Completed and submitted Linear and Binary search-based assignment  
+[Searching Algorithms](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Binary-linear-search)  
+
+---
+
+📅 17-Jan-2026 (Saturday)  
+Studied Study The Scenario-based problem  
+Solved oops scenario-based practice problem  
+Completed and submitted oops and algroithm's runtime analysis based assignment  
+[Runtime Analysis](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Time%20Complexity%20Analysis)  
+
+---
+
+## Week 6: DSA, Scenario-Based, Collections Framework , Exceptions  
+
+
+📅 19-Jan-2026 (Monday)  
+Studied Study The Generics  
+Solved dsa scenario-based practice problems  
+Completed and submitted dsa scenario-based assignment  
+[DSA Scenario-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)  
+
+---
+
+📅 20-Jan-2026 (Tuesday)  
+Studied Study The Collections Framework  
+Solved dsa scenario-based practice problems  
+Completed and submitted dsa scenario-based assignment  
+[DSA Scenario-based](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)   
+
+---
+
+📅 21-Jan-2026 (Wednesday)  
+Studied Study The List , Queue, Map and Set Interface  
+Solved scenario-based practice problems  
+Completed and submitted the generics assignment  
+[Java-generics](https://github.com/rohitrawat63456/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)  
+
+
 
 ---
 ```
